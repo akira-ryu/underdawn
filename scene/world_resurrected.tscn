@@ -7110,7 +7110,7 @@ texture = ExtResource("6_pg53r")
 [sub_resource type="TileSet" id="TileSet_5eeec"]
 sources/0 = SubResource("TileSetAtlasSource_q8r0o")
 
-[node name="World_Resurrected" type="Node2D" unique_id=808476699]
+[node name="WorldDawn" type="Node2D" unique_id=808476699]
 
 [node name="Ground" type="TileMapLayer" parent="." unique_id=1494469949]
 tile_set = SubResource("TileSet_t6bvu")
