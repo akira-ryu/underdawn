@@ -998,15 +998,22 @@ animations = [{
 }]
 
 [sub_resource type="CapsuleShape2D" id="CapsuleShape2D_3xya2"]
-radius = 5.0
+height = 33.0
 
 [node name="Player" type="CharacterBody2D" unique_id=2013130420]
+texture_filter = 1
 script = ExtResource("1_n3008")
 
 [node name="player_animation" type="AnimatedSprite2D" parent="." unique_id=486744710]
+texture_filter = 1
 sprite_frames = SubResource("SpriteFrames_3xya2")
-animation = &"attack2_up"
+animation = &"idle_down"
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="." unique_id=1111410000]
-position = Vector2(-1, 3)
+texture_filter = 1
+position = Vector2(0, 1.5)
 shape = SubResource("CapsuleShape2D_3xya2")
+
+[node name="PlayerCamera" type="Camera2D" parent="." unique_id=1311086529]
+texture_filter = 1
+zoom = Vector2(2, 2)
