@@ -8,10 +8,35 @@ anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
 
-[node name="Button" type="Button" parent="." unique_id=638602569]
-layout_mode = 0
-offset_right = 8.0
-offset_bottom = 8.0
-text = "Test"
+[node name="VBoxContainer" type="VBoxContainer" parent="." unique_id=2078436500]
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -100.0
+offset_top = -160.0
+offset_right = 100.0
+offset_bottom = 160.0
+grow_horizontal = 2
+grow_vertical = 2
+alignment = 1
 
-[node name="CanvasLayer" type="CanvasLayer" parent="." unique_id=1739458105]
+[node name="ResumeButton" type="Button" parent="VBoxContainer" unique_id=638602569]
+texture_filter = 1
+layout_mode = 2
+size_flags_vertical = 3
+text = "Resume"
+
+[node name="SaveButton" type="Button" parent="VBoxContainer" unique_id=1708288762]
+texture_filter = 1
+layout_mode = 2
+size_flags_vertical = 3
+text = "Save Game"
+
+[node name="MainMenuButton" type="Button" parent="VBoxContainer" unique_id=1526821551]
+texture_filter = 1
+layout_mode = 2
+size_flags_vertical = 3
+text = "Main Menu"
