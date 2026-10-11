@@ -1,7 +1,9 @@
-using Godot;
-using System;
+//Name:			Enemy.cs
+//Description:	Abstract class of what a basic enemy should have
 
-public abstract partial class Enemy : Node
+using Godot;
+
+public abstract partial class Enemy : CharacterBody2D
 {
     protected AnimatedSprite2D animatedSprite;
 
@@ -10,6 +12,8 @@ public abstract partial class Enemy : Node
 
 	/*speed key*/
     protected float speed = 125f;
+
+    protected int attackDamage = 10;
 
     protected ElementType elementType { get; }
 }
