@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bsnxd2m78fcoe"
-path="res://.godot/imported/Unsheate.png-355c5e56bed4b8776126c16003d4cf46.ctex"
+path="res://.godot/imported/Unsheate.png-f482ab19e08373498aa6893e3476345c.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/player2/Back/Unsheate.png"
-dest_files=["res://.godot/imported/Unsheate.png-355c5e56bed4b8776126c16003d4cf46.ctex"]
+source_file="res://assets/player2/Back/Unsheate.png"
+dest_files=["res://.godot/imported/Unsheate.png-f482ab19e08373498aa6893e3476345c.ctex"]
 
 [params]
 

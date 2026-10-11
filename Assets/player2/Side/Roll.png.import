@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://de05rior0j01s"
-path="res://.godot/imported/Roll.png-70f57953e2c05f84a879788b8eca4141.ctex"
+path="res://.godot/imported/Roll.png-b4ba5346820d4b607bfdccfda397285d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/player2/Side/Roll.png"
-dest_files=["res://.godot/imported/Roll.png-70f57953e2c05f84a879788b8eca4141.ctex"]
+source_file="res://assets/player2/Side/Roll.png"
+dest_files=["res://.godot/imported/Roll.png-b4ba5346820d4b607bfdccfda397285d.ctex"]
 
 [params]
 

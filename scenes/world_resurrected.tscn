@@ -1,11 +1,11 @@
 [gd_scene format=3 uid="uid://bvn7vdxkfcfx8"]
 
-[ext_resource type="Texture2D" uid="uid://c0y48tidpcntl" path="res://Assets/Resurrected/Grass.png" id="1_c48tt"]
-[ext_resource type="Texture2D" uid="uid://bf4vup3ahgm3d" path="res://Assets/Resurrected/Grass 2 layer.png" id="2_miyko"]
-[ext_resource type="Texture2D" uid="uid://dd0s5mb6xw2cs" path="res://Assets/Resurrected/Plants.png" id="3_axash"]
-[ext_resource type="Texture2D" uid="uid://ddqit6v2j8exu" path="res://Assets/Resurrected/PlantShadow.png" id="4_4qfm7"]
-[ext_resource type="Texture2D" uid="uid://ditwesj0i2t4s" path="res://Assets/Resurrected/Props.png" id="5_14gpb"]
-[ext_resource type="Texture2D" uid="uid://4at836ax52t1" path="res://Assets/Resurrected/Wall.png" id="6_pg53r"]
+[ext_resource type="Texture2D" uid="uid://c0y48tidpcntl" path="res://assets/Resurrected/Grass.png" id="1_c48tt"]
+[ext_resource type="Texture2D" uid="uid://bf4vup3ahgm3d" path="res://assets/Resurrected/Grass 2 layer.png" id="2_miyko"]
+[ext_resource type="Texture2D" uid="uid://dd0s5mb6xw2cs" path="res://assets/Resurrected/Plants.png" id="3_axash"]
+[ext_resource type="Texture2D" uid="uid://ddqit6v2j8exu" path="res://assets/Resurrected/PlantShadow.png" id="4_4qfm7"]
+[ext_resource type="Texture2D" uid="uid://ditwesj0i2t4s" path="res://assets/Resurrected/Props.png" id="5_14gpb"]
+[ext_resource type="Texture2D" uid="uid://4at836ax52t1" path="res://assets/Resurrected/Wall.png" id="6_pg53r"]
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_vdds5"]
 texture = ExtResource("1_c48tt")
