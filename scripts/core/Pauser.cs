@@ -9,8 +9,8 @@ public partial class Pauser : Node
 
 	public override void _Ready()
 	{
-        //ensures this node will keep running when
-        //using gettree().paused
+		//ensures this node will keep running when
+		//using gettree().paused
 		ProcessMode = ProcessModeEnum.Always;
 	}
 
