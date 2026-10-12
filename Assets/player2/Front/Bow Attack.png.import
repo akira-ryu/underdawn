@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c2j8fdj0uu17q"
-path="res://.godot/imported/Bow Attack.png-a23c08a428d49468dadd959db18b5cf0.ctex"
+path="res://.godot/imported/Bow Attack.png-e5e06bb772d67aa51a27764bd36063e2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/player2/Front/Bow Attack.png"
-dest_files=["res://.godot/imported/Bow Attack.png-a23c08a428d49468dadd959db18b5cf0.ctex"]
+source_file="res://Assets/player2/Front/Bow Attack.png"
+dest_files=["res://.godot/imported/Bow Attack.png-e5e06bb772d67aa51a27764bd36063e2.ctex"]
 
 [params]
 
