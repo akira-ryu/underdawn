@@ -13,7 +13,7 @@ config_version=5
 config/name="UnderDawn"
 run/main_scene="uid://b5dudyqlsi166"
 config/features=PackedStringArray("4.7", "C#", "Forward Plus")
-config/icon="res://icon.svg"
+config/icon="res://other/icon.svg"
 
 [display]
 
